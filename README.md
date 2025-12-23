@@ -171,11 +171,13 @@ urlpatterns = [
 ~~~
 
 # OUTPUT
-![alt text](mapout.png)
-![alt text](apjout.png)
-![alt text](islandout.png)
-![alt text](pambanout.png)
-![alt text](templeout.png)
-![alt text](waterout.png)
+<img width="1424" height="653" alt="image" src="https://github.com/user-attachments/assets/d5fc95ff-db32-4b1f-9970-25535b09895a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf19a83f-5eb0-49ff-a9ba-44574fda6ecb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86502d2d-2bef-4f6e-88cf-67a7b7ae4640" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2eae9329-5dac-4c35-8b05-c3c479453b49" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93470e24-88dc-47c5-8c11-d016b251958d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48fad64d-71e6-4f20-b591-ac7f57a6c483" />
+
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
