@@ -28,7 +28,7 @@ map.html
 {% load static %}
 <title>RAMANATHAPURAM MAP</title>
 <body>
-    <center><h1>MOHAMED ASARUDEEN A (25005844)</h1>
+    <center>SahayaDanielBruno<h1>(25000539)</h1>
 <img src="{% static 'rmd.png'%}" usemap="#image-map"></center>
 
 <map name="image-map">
